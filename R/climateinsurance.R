@@ -42,7 +42,9 @@ climateinsurance <- function(year, index, yield, crop_price = 1, strike_quantile
   library(tidymodels)
 
 
-
+  year  <- data.frame(c(year))
+  index <- data.frame(c(index))
+  yield <- data.frame(c(yield))
 
   #data frame of selected data
   data_selected <- data.frame(c(year, index, yield))
