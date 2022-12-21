@@ -1,0 +1,18 @@
+Package: climateinsurance
+Type: Package
+Title: Design and performance analysis of index-based climate insurance
+Version: 0.1.0
+Author: Sarvarbek Eltazarov, Ihtiyor Bobojonoc, Lena Kuhn, Thomas Glauben 
+Maintainer: Sarvarbek Eltazarov <sarvarbek.eltazarov@gmail.com>
+Description: A web-app was developed for interested parties to design 
+  index-based climate insurance and analyze their climate risk reduction 
+  potential.  The app is fully automatic and does not require any knowledge 
+  of statistics or programming languages. The web platform requires the 
+  user to enter a period, crop yield and index information. Data can 
+  be copy-pasted in any delineation (eg. space, comma). Consequently, 
+  the web-app designs index-based climate insurance products based on 
+  entered data and calculates descriptive statistics, and conducts 
+  performance analysis.
+License: IAMO, 2022
+Encoding: UTF-8
+LazyData: true
