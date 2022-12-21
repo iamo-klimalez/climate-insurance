@@ -2,7 +2,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Climate Insurance <img src="man/figures/logo.png" align="right"/>
+# Climate Insurance
 
 
 "Climate Insurance" package was developed for interested parties to design index-based climate insurance and analyze their climate risk reduction  potential.  The package requires the user to enter a period, crop yield and index information. Data can be entered in any delineation (eg. space, comma). Consequently, the package designs index-based climate insurance products based on entered data and calculates descriptive statistics, and conducts performance analysis.
