@@ -75,7 +75,7 @@ climateinsurance(year, yield, index)
 
 ```
 
-![](figure1.png)<!-- -->
+![](/figure1.png)<!-- -->
 
 #### Result
 ``` r
