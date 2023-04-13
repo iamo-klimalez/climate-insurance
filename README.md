@@ -31,7 +31,7 @@ devtools::install_github("iamo-klimalez/climate-insurance")
 
 ## Citing the package
 
-If you use metR in your research, please consider citing it. You can get
+If you use thi package in your research, please consider citing it. You can get
 citation information with
 
 ``` r
@@ -44,11 +44,11 @@ citation("climateinsurance")
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {climateinsurance: Design and performance analysis of index-based climate insurances},
+#>     title = {Improving risk reduction potential of weather index insurance by spatially downscaling gridded climate data - a machine learning approach},
 #>     author = {Sarvarbek Eltazarov, Ihtiyor Bobojonoc, Lena Kuhn, Thomas Glauben},
-#>     year = {2022},
-#>     note = {R package version 0.1},
-#>     url = {https://github.com/iamo-klimalez/climate-insurance},
+#>     year = {2023},
+#>     note = {peer-review paper},
+#>     doi = {https://doi.org/10.1080/20964471.2023.2196830},
 #>   }
 ```
 
