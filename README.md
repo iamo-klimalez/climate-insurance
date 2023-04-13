@@ -54,10 +54,7 @@ citation("climateinsurance")
 
 ## Examples
 
-In this example we easily perform Principal Components Decomposition
-(EOF) on monthly geopotential height, then compute the geostrophic wind
-associated with this field and plot the field with filled contours and
-the wind with streamlines.
+In this example we easily design and analyze the performance of the below given index (cummulative precipitation).
 
 ``` r
 library(climateinsurance)
