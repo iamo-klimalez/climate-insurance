@@ -31,7 +31,7 @@ devtools::install_github("iamo-klimalez/climate-insurance")
 
 ## Citing the package
 
-If you use thi package in your research, please consider citing it. You can get
+If you use this package in your research, please consider citing it. You can get
 citation information with
 
 ``` r
@@ -45,7 +45,7 @@ citation("climateinsurance")
 #> 
 #>   @Manual{,
 #>     title = {Improving risk reduction potential of weather index insurance by spatially downscaling gridded climate data - a machine learning approach},
-#>     author = {Sarvarbek Eltazarov, Ihtiyor Bobojonoc, Lena Kuhn, Thomas Glauben},
+#>     author = {Sarvarbek Eltazarov, Ihtiyor Bobojonov, Lena Kuhn, Thomas Glauben},
 #>     year = {2023},
 #>     note = {peer-review paper},
 #>     doi = {https://doi.org/10.1080/20964471.2023.2196830},
@@ -54,7 +54,7 @@ citation("climateinsurance")
 
 ## Examples
 
-In this example we easily design and analyze the performance of the below given index (cummulative precipitation).
+In this example we easily design and analyze the performance of the below given index (cummulative precipitation) based insurance products.
 
 ``` r
 library(climateinsurance)
